@@ -1,0 +1,49 @@
+/******************************************************************************
+TABLE OF CONTENTS
+
+AUTHOR            - Richard Myatt
+DATE              - 3 October 2017
+
+
+GENERAL STYLING                - html elements and shared styles
+
+
+COLOUR PALETTE
+
+None
+
+
+Note: https://autoprefixer.github.io was used to add the prefixed additions in
+      the code below.
+******************************************************************************/
+
+
+/******************************************************************************
+  General styling begins
+******************************************************************************/
+body {
+  padding-top: 50px;
+}
+
+footer {
+  padding-top: 50px;
+}
+
+footer p {
+  font-size: 0.8em;
+}
+
+.caption {
+  font-size: 1.2em;
+}
+
+.tribute {
+  padding-top: 30px;
+  font-size: 1.3em;
+}
+
+.timeline {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+/* General styling ends */
